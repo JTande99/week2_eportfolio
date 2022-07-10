@@ -166,6 +166,10 @@ nav {
     max-width: 100px;
 }
 
+.language {
+    width: 25%;
+}
+
 .language__img--wrapper {
     display: flex;
     justify-content: center;
