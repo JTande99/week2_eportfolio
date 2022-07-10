@@ -160,3 +160,12 @@ nav {
 }
 
 /* TECH STACK */
+
+.language__img {
+    width: 100%;
+    max-width: 100px;
+}
+
+.language__img--wrapper {
+    width: 25%;
+}
