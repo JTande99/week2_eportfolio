@@ -299,6 +299,7 @@ nav {
 
 .footer__logo--img {
     transform: rotate(.5turn);
+    height: 70px;
 }
 
 footer {
