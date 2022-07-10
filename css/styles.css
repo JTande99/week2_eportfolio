@@ -48,8 +48,8 @@ section:nth-child(even) {
     background-color: #f8f8f8;
 }
 
-.section_title {
-
+.section__title {
+    margin-bottom: 20px;
 }
 
 /* NAVIGATION BAR */
@@ -158,3 +158,5 @@ nav {
 .about-me__img {
     width: 100%;
 }
+
+/* TECH STACK */
